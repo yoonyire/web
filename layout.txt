@@ -1,0 +1,5 @@
+app/
+ +-- app.py
+ +-- templates/
+     +-- index.html
+     +-- user.html
